@@ -1,0 +1,2464 @@
+Uri: https://cdn.jsdelivr.net/gh/vincentdoerig/latex-css/fonts/LM-bold-italic.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\LM-bold-italic.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/gh/vincentdoerig/latex-css/fonts/LM-bold-italic.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\LM-bold-italic.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/gh/vincentdoerig/latex-css/fonts/LM-bold-italic.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\LM-bold-italic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/gh/vincentdoerig/latex-css/fonts/LM-bold.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\LM-bold.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/gh/vincentdoerig/latex-css/fonts/LM-bold.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\LM-bold.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/gh/vincentdoerig/latex-css/fonts/LM-bold.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\LM-bold.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/gh/vincentdoerig/latex-css/fonts/LM-italic.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\LM-italic.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/gh/vincentdoerig/latex-css/fonts/LM-italic.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\LM-italic.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/gh/vincentdoerig/latex-css/fonts/LM-italic.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\LM-italic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/gh/vincentdoerig/latex-css/fonts/LM-regular.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\LM-regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/gh/vincentdoerig/latex-css/fonts/LM-regular.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\LM-regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/gh/vincentdoerig/latex-css/fonts/LM-regular.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\LM-regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_AMS-Regular.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_AMS-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_AMS-Regular.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_AMS-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_AMS-Regular.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_AMS-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Caligraphic-Bold.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Caligraphic-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Caligraphic-Bold.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Caligraphic-Bold.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Caligraphic-Bold.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Caligraphic-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Caligraphic-Regular.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Caligraphic-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Caligraphic-Regular.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Caligraphic-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Caligraphic-Regular.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Caligraphic-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Fraktur-Bold.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Fraktur-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Fraktur-Bold.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Fraktur-Bold.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Fraktur-Bold.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Fraktur-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Fraktur-Regular.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Fraktur-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Fraktur-Regular.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Fraktur-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Fraktur-Regular.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Fraktur-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Main-Bold.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Main-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Main-Bold.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Main-Bold.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Main-Bold.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Main-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Main-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Main-BoldItalic.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Main-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Main-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Main-BoldItalic.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Main-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Main-Italic.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Main-Italic.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Main-Italic.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Main-Italic.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Main-Italic.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Main-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Main-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Main-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Main-Regular.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Main-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Math-BoldItalic.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Math-BoldItalic.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Math-BoldItalic.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Math-BoldItalic.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Math-BoldItalic.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Math-BoldItalic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Math-Italic.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Math-Italic.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Math-Italic.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Math-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_SansSerif-Bold.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_SansSerif-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_SansSerif-Bold.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_SansSerif-Bold.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_SansSerif-Bold.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_SansSerif-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_SansSerif-Italic.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_SansSerif-Italic.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_SansSerif-Italic.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_SansSerif-Italic.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_SansSerif-Italic.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_SansSerif-Italic.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_SansSerif-Regular.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_SansSerif-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_SansSerif-Regular.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_SansSerif-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_SansSerif-Regular.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_SansSerif-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Script-Regular.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Script-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Script-Regular.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Script-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Script-Regular.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Script-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Size1-Regular.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Size1-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Size1-Regular.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Size1-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Size1-Regular.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Size1-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Size2-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Size2-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Size2-Regular.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Size2-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Size3-Regular.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Size3-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Size3-Regular.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Size3-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Size3-Regular.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Size3-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Size4-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Size4-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Size4-Regular.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Size4-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Typewriter-Regular.ttf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Typewriter-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Typewriter-Regular.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Typewriter-Regular.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/fonts/KaTeX_Typewriter-Regular.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\KaTeX_Typewriter-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css
+File Name: C:\Downloaded Web Sites\docs.praison.ai\katex.min.css
+Content Type: text/css
+
+Uri: https://docs.praison.ai/docs
+File Name: C:\Downloaded Web Sites\docs.praison.ai\docs.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/agents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\agents.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/data-analyst
+File Name: C:\Downloaded Web Sites\docs.praison.ai\data-analyst.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/finance
+File Name: C:\Downloaded Web Sites\docs.praison.ai\finance.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/image
+File Name: C:\Downloaded Web Sites\docs.praison.ai\image.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/image-to-text
+File Name: C:\Downloaded Web Sites\docs.praison.ai\image-to-text.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/markdown
+File Name: C:\Downloaded Web Sites\docs.praison.ai\markdown.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/planning
+File Name: C:\Downloaded Web Sites\docs.praison.ai\planning.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/programming
+File Name: C:\Downloaded Web Sites\docs.praison.ai\programming.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/recommendation
+File Name: C:\Downloaded Web Sites\docs.praison.ai\recommendation.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/research
+File Name: C:\Downloaded Web Sites\docs.praison.ai\research.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/shopping
+File Name: C:\Downloaded Web Sites\docs.praison.ai\shopping.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/single
+File Name: C:\Downloaded Web Sites\docs.praison.ai\single.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/video
+File Name: C:\Downloaded Web Sites\docs.praison.ai\video.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/websearch
+File Name: C:\Downloaded Web Sites\docs.praison.ai\websearch.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/agents/wikipedia
+File Name: C:\Downloaded Web Sites\docs.praison.ai\wikipedia.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/api/praisonaiagents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\praisonaiagents-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/api/praisonaiagents/agent/agent
+File Name: C:\Downloaded Web Sites\docs.praison.ai\agent.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/api/praisonaiagents/agents/agents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\agents-2.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/api/praisonaiagents/agents/autoagents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\autoagents-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/api/praisonaiagents/process/process
+File Name: C:\Downloaded Web Sites\docs.praison.ai\process-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/api/praisonaiagents/task/task
+File Name: C:\Downloaded Web Sites\docs.praison.ai\task.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/concepts/agents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\agents-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/concepts/knowledge
+File Name: C:\Downloaded Web Sites\docs.praison.ai\knowledge.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/concepts/memory
+File Name: C:\Downloaded Web Sites\docs.praison.ai\memory.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/concepts/process
+File Name: C:\Downloaded Web Sites\docs.praison.ai\process.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/concepts/tasks
+File Name: C:\Downloaded Web Sites\docs.praison.ai\tasks.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/concepts/tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\tools-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/01-introduction
+File Name: C:\Downloaded Web Sites\docs.praison.ai\01-introduction.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/02-types-of-agents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\02-types-of-agents.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/03-agent-architecture
+File Name: C:\Downloaded Web Sites\docs.praison.ai\03-agent-architecture.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/04-agent-instructions
+File Name: C:\Downloaded Web Sites\docs.praison.ai\04-agent-instructions.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/05-agent-tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\05-agent-tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/06-agent-memory
+File Name: C:\Downloaded Web Sites\docs.praison.ai\06-agent-memory.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/07-multi-agent-systems
+File Name: C:\Downloaded Web Sites\docs.praison.ai\07-multi-agent-systems.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/08-agent-process
+File Name: C:\Downloaded Web Sites\docs.praison.ai\08-agent-process.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/09-knowledge-bases
+File Name: C:\Downloaded Web Sites\docs.praison.ai\09-knowledge-bases.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/10-agent-tasks
+File Name: C:\Downloaded Web Sites\docs.praison.ai\10-agent-tasks.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/11-creating-your-first-agent
+File Name: C:\Downloaded Web Sites\docs.praison.ai\11-creating-your-first-agent.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/12-adding-tools-to-agents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\12-adding-tools-to-agents.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/13-building-multi-agent-system
+File Name: C:\Downloaded Web Sites\docs.praison.ai\13-building-multi-agent-system.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/14-conversational-agents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\14-conversational-agents.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/15-research-agents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\15-research-agents.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/16-content-creation-agents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\16-content-creation-agents.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/17-data-analysis-agents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\17-data-analysis-agents.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/18-customer-support-agents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\18-customer-support-agents.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/19-personal-assistant-agents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\19-personal-assistant-agents.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/course/agents/20-deploying-agents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\20-deploying-agents.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/deploy/aws
+File Name: C:\Downloaded Web Sites\docs.praison.ai\aws-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/deploy/deploy
+File Name: C:\Downloaded Web Sites\docs.praison.ai\deploy.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/deploy/googlecloud
+File Name: C:\Downloaded Web Sites\docs.praison.ai\googlecloud.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/deploy/mcp-server-deploy
+File Name: C:\Downloaded Web Sites\docs.praison.ai\mcp-server-deploy.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/deploy/multi-agents-deploy
+File Name: C:\Downloaded Web Sites\docs.praison.ai\multi-agents-deploy.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/developers/agents-playbook
+File Name: C:\Downloaded Web Sites\docs.praison.ai\agents-playbook.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/developers/googlecolab
+File Name: C:\Downloaded Web Sites\docs.praison.ai\googlecolab.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/developers/googlecolab-tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\googlecolab-tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/developers/local-development
+File Name: C:\Downloaded Web Sites\docs.praison.ai\local-development.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/developers/test
+File Name: C:\Downloaded Web Sites\docs.praison.ai\test.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/developers/wrapper
+File Name: C:\Downloaded Web Sites\docs.praison.ai\wrapper.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/developers/wrapper-tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\wrapper-tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/adaptive-learning
+File Name: C:\Downloaded Web Sites\docs.praison.ai\adaptive-learning.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/climate-impact
+File Name: C:\Downloaded Web Sites\docs.praison.ai\climate-impact.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/code-analysis
+File Name: C:\Downloaded Web Sites\docs.praison.ai\code-analysis.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/code-review
+File Name: C:\Downloaded Web Sites\docs.praison.ai\code-review.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/crypto-validator
+File Name: C:\Downloaded Web Sites\docs.praison.ai\crypto-validator.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/customer-service
+File Name: C:\Downloaded Web Sites\docs.praison.ai\customer-service.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/defi-market-maker
+File Name: C:\Downloaded Web Sites\docs.praison.ai\defi-market-maker.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/emergency-response
+File Name: C:\Downloaded Web Sites\docs.praison.ai\emergency-response.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/examples
+File Name: C:\Downloaded Web Sites\docs.praison.ai\examples.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/fraud-detection
+File Name: C:\Downloaded Web Sites\docs.praison.ai\fraud-detection.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/hackathon-judge
+File Name: C:\Downloaded Web Sites\docs.praison.ai\hackathon-judge.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/healthcare-diagnosis
+File Name: C:\Downloaded Web Sites\docs.praison.ai\healthcare-diagnosis.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/medicine-protocol
+File Name: C:\Downloaded Web Sites\docs.praison.ai\medicine-protocol.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/multilingual-content
+File Name: C:\Downloaded Web Sites\docs.praison.ai\multilingual-content.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/neural-architecture
+File Name: C:\Downloaded Web Sites\docs.praison.ai\neural-architecture.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/predictive-maintenance
+File Name: C:\Downloaded Web Sites\docs.praison.ai\predictive-maintenance.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/quantum-optimiser
+File Name: C:\Downloaded Web Sites\docs.praison.ai\quantum-optimiser.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/research-assistant
+File Name: C:\Downloaded Web Sites\docs.praison.ai\research-assistant.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/smart-city
+File Name: C:\Downloaded Web Sites\docs.praison.ai\smart-city.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/space-mission
+File Name: C:\Downloaded Web Sites\docs.praison.ai\space-mission.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/supply-chain
+File Name: C:\Downloaded Web Sites\docs.praison.ai\supply-chain.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/examples/vulnerability-detection
+File Name: C:\Downloaded Web Sites\docs.praison.ai\vulnerability-detection.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/async
+File Name: C:\Downloaded Web Sites\docs.praison.ai\async.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/autoagents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\autoagents.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/autonomous-workflow
+File Name: C:\Downloaded Web Sites\docs.praison.ai\autonomous-workflow.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/callbacks
+File Name: C:\Downloaded Web Sites\docs.praison.ai\callbacks.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/camera-integration
+File Name: C:\Downloaded Web Sites\docs.praison.ai\camera-integration.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/chat-with-pdf
+File Name: C:\Downloaded Web Sites\docs.praison.ai\chat-with-pdf.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/cli
+File Name: C:\Downloaded Web Sites\docs.praison.ai\cli.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/codeagent
+File Name: C:\Downloaded Web Sites\docs.praison.ai\codeagent.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/evaluator-optimiser
+File Name: C:\Downloaded Web Sites\docs.praison.ai\evaluator-optimiser.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/generate-reasoning
+File Name: C:\Downloaded Web Sites\docs.praison.ai\generate-reasoning.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/image-generation
+File Name: C:\Downloaded Web Sites\docs.praison.ai\image-generation.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/langchain
+File Name: C:\Downloaded Web Sites\docs.praison.ai\langchain.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/mathagent
+File Name: C:\Downloaded Web Sites\docs.praison.ai\mathagent.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/mini
+File Name: C:\Downloaded Web Sites\docs.praison.ai\mini.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/multimodal
+File Name: C:\Downloaded Web Sites\docs.praison.ai\multimodal.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/orchestrator-worker
+File Name: C:\Downloaded Web Sites\docs.praison.ai\orchestrator-worker.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/parallelisation
+File Name: C:\Downloaded Web Sites\docs.praison.ai\parallelisation.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/promptchaining
+File Name: C:\Downloaded Web Sites\docs.praison.ai\promptchaining.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/rag
+File Name: C:\Downloaded Web Sites\docs.praison.ai\rag.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/reasoning
+File Name: C:\Downloaded Web Sites\docs.praison.ai\reasoning.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/reasoning-extract
+File Name: C:\Downloaded Web Sites\docs.praison.ai\reasoning-extract.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/repetitive
+File Name: C:\Downloaded Web Sites\docs.praison.ai\repetitive.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/routing
+File Name: C:\Downloaded Web Sites\docs.praison.ai\routing.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/selfreflection
+File Name: C:\Downloaded Web Sites\docs.praison.ai\selfreflection.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/stateful-agents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\stateful-agents.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/features/structured
+File Name: C:\Downloaded Web Sites\docs.praison.ai\structured.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/firecrawl
+File Name: C:\Downloaded Web Sites\docs.praison.ai\firecrawl.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/framework/autogen
+File Name: C:\Downloaded Web Sites\docs.praison.ai\autogen.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/framework/crewai
+File Name: C:\Downloaded Web Sites\docs.praison.ai\crewai.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/framework/praisonaiagents
+File Name: C:\Downloaded Web Sites\docs.praison.ai\praisonaiagents.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/index
+File Name: C:\Downloaded Web Sites\docs.praison.ai\index.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/installation
+File Name: C:\Downloaded Web Sites\docs.praison.ai\installation.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/introduction
+File Name: C:\Downloaded Web Sites\docs.praison.ai\introduction.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/js/customtools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\customtools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/js/development
+File Name: C:\Downloaded Web Sites\docs.praison.ai\development.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/js/js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\js.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/js/nodejs
+File Name: C:\Downloaded Web Sites\docs.praison.ai\nodejs.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/js/typescript
+File Name: C:\Downloaded Web Sites\docs.praison.ai\typescript.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/js/typescript-async
+File Name: C:\Downloaded Web Sites\docs.praison.ai\typescript-async.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/airbnb
+File Name: C:\Downloaded Web Sites\docs.praison.ai\airbnb.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/anthropic
+File Name: C:\Downloaded Web Sites\docs.praison.ai\anthropic-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/bravesearch
+File Name: C:\Downloaded Web Sites\docs.praison.ai\bravesearch.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/custom
+File Name: C:\Downloaded Web Sites\docs.praison.ai\custom-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/custom-python-client
+File Name: C:\Downloaded Web Sites\docs.praison.ai\custom-python-client.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/custom-python-server
+File Name: C:\Downloaded Web Sites\docs.praison.ai\custom-python-server.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/everart
+File Name: C:\Downloaded Web Sites\docs.praison.ai\everart.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/filesystem
+File Name: C:\Downloaded Web Sites\docs.praison.ai\filesystem.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/gdrive
+File Name: C:\Downloaded Web Sites\docs.praison.ai\gdrive.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/gemini
+File Name: C:\Downloaded Web Sites\docs.praison.ai\gemini.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/github
+File Name: C:\Downloaded Web Sites\docs.praison.ai\github.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/gitlab
+File Name: C:\Downloaded Web Sites\docs.praison.ai\gitlab.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/google-maps
+File Name: C:\Downloaded Web Sites\docs.praison.ai\google-maps.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/groq
+File Name: C:\Downloaded Web Sites\docs.praison.ai\groq-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/mcp-server
+File Name: C:\Downloaded Web Sites\docs.praison.ai\mcp-server.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/memory
+File Name: C:\Downloaded Web Sites\docs.praison.ai\memory-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/mistral
+File Name: C:\Downloaded Web Sites\docs.praison.ai\mistral-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/ollama
+File Name: C:\Downloaded Web Sites\docs.praison.ai\ollama-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/ollama-python
+File Name: C:\Downloaded Web Sites\docs.praison.ai\ollama-python.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/openai
+File Name: C:\Downloaded Web Sites\docs.praison.ai\openai-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/openrouter
+File Name: C:\Downloaded Web Sites\docs.praison.ai\openrouter-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/perplexity
+File Name: C:\Downloaded Web Sites\docs.praison.ai\perplexity.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/playwright
+File Name: C:\Downloaded Web Sites\docs.praison.ai\playwright.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/postgres
+File Name: C:\Downloaded Web Sites\docs.praison.ai\postgres.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/puppeteer
+File Name: C:\Downloaded Web Sites\docs.praison.ai\puppeteer.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/redis
+File Name: C:\Downloaded Web Sites\docs.praison.ai\redis.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/sequential-thinking
+File Name: C:\Downloaded Web Sites\docs.praison.ai\sequential-thinking.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/slack
+File Name: C:\Downloaded Web Sites\docs.praison.ai\slack.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/sse
+File Name: C:\Downloaded Web Sites\docs.praison.ai\sse.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/stdio
+File Name: C:\Downloaded Web Sites\docs.praison.ai\stdio.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/stockprice
+File Name: C:\Downloaded Web Sites\docs.praison.ai\stockprice.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/whatsapp
+File Name: C:\Downloaded Web Sites\docs.praison.ai\whatsapp.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/mcp/xai
+File Name: C:\Downloaded Web Sites\docs.praison.ai\xai.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/models
+File Name: C:\Downloaded Web Sites\docs.praison.ai\models.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/models.md
+File Name: C:\Downloaded Web Sites\docs.praison.ai\models.md
+Content Type: text/markdown
+
+Uri: https://docs.praison.ai/docs/models/anthropic
+File Name: C:\Downloaded Web Sites\docs.praison.ai\anthropic.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/models/anthropic.md
+File Name: C:\Downloaded Web Sites\docs.praison.ai\anthropic.md
+Content Type: text/markdown
+
+Uri: https://docs.praison.ai/docs/models/aws
+File Name: C:\Downloaded Web Sites\docs.praison.ai\aws.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/models/cohere
+File Name: C:\Downloaded Web Sites\docs.praison.ai\cohere.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/models/cohere.md
+File Name: C:\Downloaded Web Sites\docs.praison.ai\cohere.md
+Content Type: text/markdown
+
+Uri: https://docs.praison.ai/docs/models/deepseek
+File Name: C:\Downloaded Web Sites\docs.praison.ai\deepseek.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/models/google
+File Name: C:\Downloaded Web Sites\docs.praison.ai\google.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/models/google.md
+File Name: C:\Downloaded Web Sites\docs.praison.ai\google.md
+Content Type: text/markdown
+
+Uri: https://docs.praison.ai/docs/models/groq
+File Name: C:\Downloaded Web Sites\docs.praison.ai\groq.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/models/groq.md
+File Name: C:\Downloaded Web Sites\docs.praison.ai\groq.md
+Content Type: text/markdown
+
+Uri: https://docs.praison.ai/docs/models/mistral
+File Name: C:\Downloaded Web Sites\docs.praison.ai\mistral.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/models/mistral.md
+File Name: C:\Downloaded Web Sites\docs.praison.ai\mistral.md
+Content Type: text/markdown
+
+Uri: https://docs.praison.ai/docs/models/ollama
+File Name: C:\Downloaded Web Sites\docs.praison.ai\ollama.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/models/ollama.md
+File Name: C:\Downloaded Web Sites\docs.praison.ai\ollama.md
+Content Type: text/markdown
+
+Uri: https://docs.praison.ai/docs/models/openai
+File Name: C:\Downloaded Web Sites\docs.praison.ai\openai.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/models/openai.md
+File Name: C:\Downloaded Web Sites\docs.praison.ai\openai.md
+Content Type: text/markdown
+
+Uri: https://docs.praison.ai/docs/models/openrouter
+File Name: C:\Downloaded Web Sites\docs.praison.ai\openrouter.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/models/other
+File Name: C:\Downloaded Web Sites\docs.praison.ai\other.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/models/other.md
+File Name: C:\Downloaded Web Sites\docs.praison.ai\other.md
+Content Type: text/markdown
+
+Uri: https://docs.praison.ai/docs/monitoring/agentops
+File Name: C:\Downloaded Web Sites\docs.praison.ai\agentops.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/nocode/auto
+File Name: C:\Downloaded Web Sites\docs.praison.ai\auto.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/nocode/initialise
+File Name: C:\Downloaded Web Sites\docs.praison.ai\initialise.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/nocode/installation
+File Name: C:\Downloaded Web Sites\docs.praison.ai\installation-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/nocode/introduction
+File Name: C:\Downloaded Web Sites\docs.praison.ai\introduction-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/nocode/run
+File Name: C:\Downloaded Web Sites\docs.praison.ai\run.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/nocode/tldr
+File Name: C:\Downloaded Web Sites\docs.praison.ai\tldr.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/playground
+File Name: C:\Downloaded Web Sites\docs.praison.ai\playground.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/quickstart
+File Name: C:\Downloaded Web Sites\docs.praison.ai\quickstart.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/arxiv_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\arxiv_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/calculator_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\calculator_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/composio
+File Name: C:\Downloaded Web Sites\docs.praison.ai\composio.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/crawl4ai
+File Name: C:\Downloaded Web Sites\docs.praison.ai\crawl4ai.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/csv_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\csv_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/custom
+File Name: C:\Downloaded Web Sites\docs.praison.ai\custom.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/duckdb_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\duckdb_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/duckduckgo
+File Name: C:\Downloaded Web Sites\docs.praison.ai\duckduckgo.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/duckduckgo_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\duckduckgo_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/excel_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\excel_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/external/brave-search
+File Name: C:\Downloaded Web Sites\docs.praison.ai\brave-search.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/external/duckduckgo-search
+File Name: C:\Downloaded Web Sites\docs.praison.ai\duckduckgo-search.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/external/exa-search
+File Name: C:\Downloaded Web Sites\docs.praison.ai\exa-search.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/external/google-serper-search
+File Name: C:\Downloaded Web Sites\docs.praison.ai\google-serper-search.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/external/google-trends
+File Name: C:\Downloaded Web Sites\docs.praison.ai\google-trends.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/external/serp-api
+File Name: C:\Downloaded Web Sites\docs.praison.ai\serp-api.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/external/serp-search
+File Name: C:\Downloaded Web Sites\docs.praison.ai\serp-search.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/external/wikipedia-search
+File Name: C:\Downloaded Web Sites\docs.praison.ai\wikipedia-search.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/file_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\file_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/googlecalendar
+File Name: C:\Downloaded Web Sites\docs.praison.ai\googlecalendar.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/gpt
+File Name: C:\Downloaded Web Sites\docs.praison.ai\gpt.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/json_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\json_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/langchain
+File Name: C:\Downloaded Web Sites\docs.praison.ai\langchain-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/langchain_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\langchain_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/mem0
+File Name: C:\Downloaded Web Sites\docs.praison.ai\mem0.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/newspaper_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\newspaper_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/pandas_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\pandas_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/python_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\python_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/reddit
+File Name: C:\Downloaded Web Sites\docs.praison.ai\reddit.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/searxng
+File Name: C:\Downloaded Web Sites\docs.praison.ai\searxng.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/shell_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\shell_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/spider_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\spider_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/tavily
+File Name: C:\Downloaded Web Sites\docs.praison.ai\tavily.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/tools_class
+File Name: C:\Downloaded Web Sites\docs.praison.ai\tools_class.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/wikipedia
+File Name: C:\Downloaded Web Sites\docs.praison.ai\wikipedia-1.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/wikipedia_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\wikipedia_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/xml_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\xml_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/yaml_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\yaml_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/yfinance_tools
+File Name: C:\Downloaded Web Sites\docs.praison.ai\yfinance_tools.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/you.com
+File Name: C:\Downloaded Web Sites\docs.praison.ai\you.com.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/tools/youtube
+File Name: C:\Downloaded Web Sites\docs.praison.ai\youtube.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/train
+File Name: C:\Downloaded Web Sites\docs.praison.ai\train.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/ui/chat
+File Name: C:\Downloaded Web Sites\docs.praison.ai\chat.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/ui/code
+File Name: C:\Downloaded Web Sites\docs.praison.ai\code.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/ui/gradio
+File Name: C:\Downloaded Web Sites\docs.praison.ai\gradio.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/ui/overview
+File Name: C:\Downloaded Web Sites\docs.praison.ai\overview.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/ui/streamlit
+File Name: C:\Downloaded Web Sites\docs.praison.ai\streamlit.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/ui/streamlit/code-analysis-streamlit
+File Name: C:\Downloaded Web Sites\docs.praison.ai\code-analysis-streamlit.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/ui/streamlit/deepseek-streamlit
+File Name: C:\Downloaded Web Sites\docs.praison.ai\deepseek-streamlit.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/ui/streamlit/gemini-streamlit
+File Name: C:\Downloaded Web Sites\docs.praison.ai\gemini-streamlit.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/ui/streamlit/hackathon-judge-streamlit
+File Name: C:\Downloaded Web Sites\docs.praison.ai\hackathon-judge-streamlit.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/ui/streamlit/ollama-streamlit
+File Name: C:\Downloaded Web Sites\docs.praison.ai\ollama-streamlit.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/docs/ui/ui
+File Name: C:\Downloaded Web Sites\docs.praison.ai\ui.html
+Content Type: text/html
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/chunks/086d643d-6f7196a364073d16.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\086d643d-6f7196a364073d16.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/chunks/2907-5e86ab4a4d83cdc8.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\2907-5e86ab4a4d83cdc8.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/chunks/2edb282b-a83f7ffd007bccf0.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\2edb282b-a83f7ffd007bccf0.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/chunks/4715-15b5c4adba23da3b.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\4715-15b5c4adba23da3b.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/chunks/5094-1c4818d9c93b8cfe.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\5094-1c4818d9c93b8cfe.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/chunks/8191-c0758519196b07ee.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\8191-c0758519196b07ee.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/chunks/966-a7a91b2aff8fa3bf.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\966-a7a91b2aff8fa3bf.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/chunks/e893f787-f6a1094a35763a0d.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\e893f787-f6a1094a35763a0d.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/chunks/framework-2ea682bf763a38d0.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\framework-2ea682bf763a38d0.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/chunks/main-c86b6a2a0fb97df9.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\main-c86b6a2a0fb97df9.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/chunks/pages/_app-4c309168484560fd.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\_app-4c309168484560fd.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/chunks/pages/_sites/[subdomain]/[[...slug]]-2d50b55259ee77e1.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\[[...slug]]-2d50b55259ee77e1.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/chunks/webpack-269164c99e80f262.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\webpack-269164c99e80f262.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/css/1e1f9862475c6e75.css
+File Name: C:\Downloaded Web Sites\docs.praison.ai\1e1f9862475c6e75.css
+Content Type: text/css
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/css/c3fbadcaeef36adf.css
+File Name: C:\Downloaded Web Sites\docs.praison.ai\c3fbadcaeef36adf.css
+Content Type: text/css
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/gdhyK_Qw3kuzBrUIzFt21/_buildManifest.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/gdhyK_Qw3kuzBrUIzFt21/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\docs.praison.ai\_ssgManifest.js
+Content Type: application/javascript
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/media/0aa834ed78bf6d07-s.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\0aa834ed78bf6d07-s.woff2
+Content Type: font/woff2
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/media/26a46d62cd723877-s.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\26a46d62cd723877-s.woff2
+Content Type: font/woff2
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/media/55c55f0601d81cf3-s.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\55c55f0601d81cf3-s.woff2
+Content Type: font/woff2
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/media/581909926a08bbc8-s.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\581909926a08bbc8-s.woff2
+Content Type: font/woff2
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/media/67957d42bae0796d-s.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\67957d42bae0796d-s.woff2
+Content Type: font/woff2
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/media/886030b0b59bc5a7-s.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\886030b0b59bc5a7-s.woff2
+Content Type: font/woff2
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/media/8e9860b6e62d6359-s.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\8e9860b6e62d6359-s.woff2
+Content Type: font/woff2
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/media/939c4f875ee75fbb-s.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\939c4f875ee75fbb-s.woff2
+Content Type: font/woff2
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/media/97e0cb1ae144a2a9-s.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\97e0cb1ae144a2a9-s.woff2
+Content Type: font/woff2
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/media/bb3ef058b751a6ad-s.p.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\bb3ef058b751a6ad-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/media/df0a9ae256c0569c-s.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\df0a9ae256c0569c-s.woff2
+Content Type: font/woff2
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/media/e4af272ccee01ff0-s.p.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\e4af272ccee01ff0-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://docs.praison.ai/mintlify-assets/_next/static/media/f911b923c6adde36-s.woff2
+File Name: C:\Downloaded Web Sites\docs.praison.ai\f911b923c6adde36-s.woff2
+Content Type: font/woff2
+
+Uri: https://docs.praison.ai/sitemap.xml
+File Name: C:\Downloaded Web Sites\docs.praison.ai\sitemap.xml
+Content Type: text/xml
+
+Uri: https://fonts.cdnfonts.com/s/18083/cmuntt.woff
+File Name: C:\Downloaded Web Sites\docs.praison.ai\cmuntt.woff
+Content Type: font/woff
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/airbnb.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\airbnb.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/aws.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\aws.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/chrome.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\chrome.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/docker.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\docker.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/github.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\github.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/gitlab.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\gitlab.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/google-drive.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\google-drive.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/google.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\google.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/js.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\js.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/markdown.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\markdown.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/node-js.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\node-js.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/python.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\python.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/reddit.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\reddit.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/searchengin.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\searchengin.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/slack.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\slack.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/whatsapp.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/wikipedia-w.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\wikipedia-w.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/x-twitter.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\x-twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/brands/youtube.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\youtube.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/a.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\a.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/arrow-left.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/arrow-right-arrow-left.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\arrow-right-arrow-left.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/arrow-right-from-bracket.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\arrow-right-from-bracket.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/arrow-right-to-bracket.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\arrow-right-to-bracket.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/arrow-right.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\arrow-right.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/arrow-trend-up.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\arrow-trend-up.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/arrow-up-right.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\arrow-up-right.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/arrows-repeat.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\arrows-repeat.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/arrows-rotate.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\arrows-rotate.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/arrows-split-up-and-left.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\arrows-split-up-and-left.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/arrows-up-down.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\arrows-up-down.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/atom.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\atom.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/bell.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\bell.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/bolt.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\bolt.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/bomb.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\bomb.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/book-medical.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\book-medical.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/book-open.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\book-open.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/book.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\book.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/border-all.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\border-all.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/box.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\box.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/brackets-curly.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\brackets-curly.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/brain-circuit.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\brain-circuit.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/brain.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\brain.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/briefcase.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\briefcase.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/browser.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\browser.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/bug.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\bug.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/building.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\building.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/bullseye.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\bullseye.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/calculator.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\calculator.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/calendar-check.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\calendar-check.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/calendar-days.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\calendar-days.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/calendar.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\calendar.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/camera-cctv.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\camera-cctv.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/certificate.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\certificate.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/chart-candlestick.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\chart-candlestick.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/chart-column.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\chart-column.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/chart-line.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\chart-line.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/chart-mixed.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\chart-mixed.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/chart-pie.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\chart-pie.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/chart-simple.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\chart-simple.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/check-double.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\check-double.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/check.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\check.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/circle-1.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\circle-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/circle-exclamation.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\circle-exclamation.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/circle-info.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\circle-info.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/circle-question.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\circle-question.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/city.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\city.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/clipboard-list.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\clipboard-list.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/clock-rotate-left.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\clock-rotate-left.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/clock.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\clock.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/closed-captioning.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\closed-captioning.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/cloud-arrow-up.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\cloud-arrow-up.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/cloud-sun.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\cloud-sun.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/cloud.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\cloud.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/code-branch.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\code-branch.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/code-merge.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\code-merge.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/code.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\code.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/comment.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\comment.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/comments.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\comments.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/compress.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\compress.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/copy.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\copy.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/cube.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\cube.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/cubes.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\cubes.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/database.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\database.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/desktop.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\desktop.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/diagram-project.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\diagram-project.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/dna.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\dna.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/download.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\download.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/dragon.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\dragon.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/duck.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\duck.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/dumbbell.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\dumbbell.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/ellipsis.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\ellipsis.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/equals.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\equals.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/eye.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\eye.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/face-smile.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\face-smile.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/file-code.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\file-code.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/file-csv.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\file-csv.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/file-excel.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\file-excel.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/file-export.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\file-export.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/file-lines.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\file-lines.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/file-medical.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\file-medical.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/file-pdf.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\file-pdf.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/file.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\file.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/film.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\film.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/filter.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\filter.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/fingerprint.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\fingerprint.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/flask.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\flask.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/folder-open.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\folder-open.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/folder-tree.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\folder-tree.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/folder.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\folder.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/font.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\font.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/function.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\function.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/gauge-high.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\gauge-high.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/gauge.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\gauge.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/gear.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\gear.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/gears.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\gears.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/glasses.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\glasses.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/globe.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\globe.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/graduation-cap.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\graduation-cap.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/hand-pointer.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\hand-pointer.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/hand-wave.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\hand-wave.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/hand.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\hand.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/hard-drive.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\hard-drive.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/headset.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\headset.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/heart.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\heart.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/hotel.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\hotel.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/hourglass-half.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\hourglass-half.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/house.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\house.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/icons.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\icons.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/image.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\image.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/images.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\images.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/key.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\key.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/language.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\language.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/laptop-code.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\laptop-code.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/laptop.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\laptop.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/layer-group.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\layer-group.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/leaf.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\leaf.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/lightbulb.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\lightbulb.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/link-simple.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\link-simple.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/link.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\link.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/list-check.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\list-check.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/list-ol.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\list-ol.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/list.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\list.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/lock.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\lock.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/magnifying-glass-chart.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\magnifying-glass-chart.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/magnifying-glass-dollar.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\magnifying-glass-dollar.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/magnifying-glass-plus.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\magnifying-glass-plus.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/magnifying-glass.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\magnifying-glass-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/map.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\map.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/masks-theater.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\masks-theater.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/memory.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\memory.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/message.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\message.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/messages.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\messages.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/microchip.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\microchip.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/microscope.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\microscope.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/mobile.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\mobile.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/money-bill-transfer.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\money-bill-transfer.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/money-bill-trend-up.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\money-bill-trend-up.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/money-bill.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\money-bill.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/mountain-sun.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\mountain-sun.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/network-wired.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\network-wired.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/newspaper.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\newspaper.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/notes-medical.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\notes-medical.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/object-group.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\object-group.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/paintbrush.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\paintbrush.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/palette.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\palette.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/paragraph.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\paragraph.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/pen-nib.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\pen-nib.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/pen-paintbrush.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\pen-paintbrush.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/pen-to-square.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\pen-to-square.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/pen.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\pen.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/pencil.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\pencil.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/people-arrows.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\people-arrows.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/people-group.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\people-group.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/person-digging.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\person-digging.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/pills.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\pills.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/plane.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\plane.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/play.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\play.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/plug.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\plug.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/plus.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\plus.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/power-off.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\power-off.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/prescription-bottle-medical.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\prescription-bottle-medical.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/prescription.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\prescription.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/puzzle-piece.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\puzzle-piece.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/question.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\question.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/radar.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\radar.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/repeat.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\repeat.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/robot.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\robot.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/rocket.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\rocket.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/rotate.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\rotate.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/route.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\route.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/router.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\router.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/ruler.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\ruler.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/satellite.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\satellite.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/scale-balanced.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\scale-balanced.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/scissors.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\scissors.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/screwdriver-wrench.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\screwdriver-wrench.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/scroll.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\scroll.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/server.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\server.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/share-nodes.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\share-nodes.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/shield-check.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\shield-check-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/shield-halved.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\shield-halved.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/shield.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\shield.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/shop.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\shop.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/shuffle.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\shuffle.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/sitemap.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\sitemap.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/sliders.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\sliders.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/sparkles.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\sparkles.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/spider.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\spider.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/spinner.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\spinner.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/square-1.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\square-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/star.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\star.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/stars.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\stars.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/stethoscope.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\stethoscope.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/store.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\store.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/subscript.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\subscript.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/table-layout.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\table-layout.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/table.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\table.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/tag.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\tag.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/temperature-high.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\temperature-high.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/terminal.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\terminal.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/text-size.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\text-size.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/text.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\text.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/thumbs-up.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\thumbs-up.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/toolbox.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\toolbox.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/traffic-light.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\traffic-light.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/triangle-exclamation.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\triangle-exclamation.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/trophy.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\trophy.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/truck-medical.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\truck-medical.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/truck.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\truck.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/upload.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\upload.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/user-check.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\user-check.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/user-gear.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\user-gear-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/user-graduate.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\user-graduate.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/user-group.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\user-group.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/user-robot.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\user-robot.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/user-tag.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\user-tag.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/user.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\user.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/users-gear.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\users-gear.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/users.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\users.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/vial.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\vial.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/video.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\video.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/vr-cardboard.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\vr-cardboard.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/wand-magic-sparkles.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\wand-magic-sparkles.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/wand-sparkles.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\wand-sparkles.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/water.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\water.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/wifi.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\wifi.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/wind.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\wind.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/window.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\window.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/regular/wrench.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\wrench.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/bolt.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\bolt-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/caret-right.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\caret-right.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/chart-line.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\chart-line-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/code.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\code-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/compass-drafting.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\compass-drafting.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/database.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\database-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/ellipsis-vertical.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\ellipsis-vertical.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/file.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\file-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/magnifying-glass.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\magnifying-glass.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/network-wired.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\network-wired-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/plug.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\plug-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/server.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\server-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/shield-check.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\shield-check.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/user-gear.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\user-gear.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/user.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\user-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.b-cdn.net/v6.6.0/solid/users.svg
+File Name: C:\Downloaded Web Sites\docs.praison.ai\users-1.svg
+Content Type: image/svg+xml
+
+Uri: https://mintlify.s3-us-west-1.amazonaws.com/praisonai/_generated/favicon/apple-touch-icon.png?v=3
+File Name: C:\Downloaded Web Sites\docs.praison.ai\apple-touch-icon.png
+Content Type: application/octet-stream
+
+Uri: https://mintlify.s3-us-west-1.amazonaws.com/praisonai/_generated/favicon/favicon-16x16.png?v=3
+File Name: C:\Downloaded Web Sites\docs.praison.ai\favicon-16x16.png
+Content Type: application/octet-stream
+
+Uri: https://mintlify.s3-us-west-1.amazonaws.com/praisonai/_generated/favicon/favicon-32x32.png?v=3
+File Name: C:\Downloaded Web Sites\docs.praison.ai\favicon-32x32.png
+Content Type: application/octet-stream
+
+Uri: https://mintlify.s3-us-west-1.amazonaws.com/praisonai/_generated/favicon/favicon.ico?v=3
+File Name: C:\Downloaded Web Sites\docs.praison.ai\favicon.ico
+Content Type: application/octet-stream
+
+Uri: https://mintlify.s3.us-west-1.amazonaws.com/praisonai/docs/images/praisonai-logo-large-dark.png
+File Name: C:\Downloaded Web Sites\docs.praison.ai\praisonai-logo-large-dark.png
+Content Type: application/octet-stream
+
+Uri: https://mintlify.s3.us-west-1.amazonaws.com/praisonai/docs/images/praisonai-logo-large-light.png
+File Name: C:\Downloaded Web Sites\docs.praison.ai\praisonai-logo-large-light.png
+Content Type: application/octet-stream
+

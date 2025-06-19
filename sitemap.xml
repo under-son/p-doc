@@ -1,0 +1,910 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+    
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/agents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/data-analyst</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/finance</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/image</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/image-to-text</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/markdown</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/planning</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/programming</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/recommendation</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/research</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/shopping</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/single</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/video</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/websearch</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/agents/wikipedia</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/api/praisonaiagents/agent/agent</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/api/praisonaiagents/agents/agents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/api/praisonaiagents/agents/autoagents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/api/praisonaiagents/index</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/api/praisonaiagents/process/process</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/api/praisonaiagents/task/task</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/concepts/agents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/concepts/knowledge</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/concepts/memory</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/concepts/process</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/concepts/tasks</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/concepts/tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/01-introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/02-types-of-agents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/03-agent-architecture</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/04-agent-instructions</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/05-agent-tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/06-agent-memory</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/07-multi-agent-systems</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/08-agent-process</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/09-knowledge-bases</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/10-agent-tasks</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/11-creating-your-first-agent</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/12-adding-tools-to-agents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/13-building-multi-agent-system</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/14-conversational-agents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/15-research-agents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/16-content-creation-agents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/17-data-analysis-agents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/18-customer-support-agents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/19-personal-assistant-agents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/course/agents/20-deploying-agents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/deploy/aws</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/deploy/deploy</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/deploy/googlecloud</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/deploy/mcp-server-deploy</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/deploy/multi-agents-deploy</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/developers/agents-playbook</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/developers/googlecolab</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/developers/googlecolab-tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/developers/local-development</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/developers/test</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/developers/wrapper</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/developers/wrapper-tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/adaptive-learning</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/climate-impact</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/code-analysis</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/code-review</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/crypto-validator</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/customer-service</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/defi-market-maker</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/emergency-response</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/examples</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/fraud-detection</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/hackathon-judge</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/healthcare-diagnosis</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/medicine-protocol</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/multilingual-content</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/neural-architecture</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/predictive-maintenance</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/quantum-optimiser</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/research-assistant</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/smart-city</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/space-mission</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/supply-chain</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/examples/vulnerability-detection</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/async</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/autoagents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/autonomous-workflow</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/callbacks</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/camera-integration</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/chat-with-pdf</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/cli</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/codeagent</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/evaluator-optimiser</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/generate-reasoning</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/image-generation</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/langchain</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/mathagent</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/mini</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/multimodal</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/orchestrator-worker</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/parallelisation</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/promptchaining</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/rag</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/reasoning</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/reasoning-extract</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/repetitive</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/routing</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/selfreflection</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/stateful-agents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/features/structured</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/firecrawl</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/framework/autogen</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/framework/crewai</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/framework/praisonaiagents</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/index</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/installation</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/js/customtools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/js/development</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/js/js</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/js/nodejs</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/js/typescript</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/js/typescript-async</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/airbnb</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/anthropic</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/bravesearch</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/custom</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/custom-python-client</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/custom-python-server</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/everart</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/filesystem</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/gdrive</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/gemini</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/github</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/gitlab</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/google-maps</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/groq</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/mcp-server</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/memory</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/mistral</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/ollama</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/ollama-python</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/openai</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/openrouter</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/perplexity</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/playwright</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/postgres</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/puppeteer</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/redis</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/sequential-thinking</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/slack</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/sse</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/stdio</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/stockprice</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/whatsapp</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/mcp/xai</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/models</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/models/anthropic</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/models/aws</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/models/cohere</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/models/deepseek</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/models/google</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/models/groq</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/models/mistral</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/models/ollama</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/models/openai</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/models/openrouter</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/models/other</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/monitoring/agentops</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/nocode/auto</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/nocode/initialise</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/nocode/installation</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/nocode/introduction</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/nocode/run</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/nocode/tldr</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/playground</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/quickstart</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/arxiv_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/calculator_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/composio</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/crawl4ai</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/csv_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/custom</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/duckdb_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/duckduckgo</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/duckduckgo_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/excel_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/external/brave-search</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/external/duckduckgo-search</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/external/exa-search</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/external/google-serper-search</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/external/google-trends</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/external/serp-api</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/external/serp-search</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/external/wikipedia-search</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/file_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/googlecalendar</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/gpt</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/json_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/langchain</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/langchain_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/mem0</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/newspaper_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/pandas_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/python_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/reddit</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/shell_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/spider_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/tavily</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/tools_class</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/wikipedia</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/wikipedia_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/xml_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/yaml_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/yfinance_tools</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/you.com</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/tools/youtube</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/train</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/ui/chat</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/ui/code</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/ui/gradio</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/ui/overview</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/ui/streamlit</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/ui/streamlit/code-analysis-streamlit</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/ui/streamlit/deepseek-streamlit</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/ui/streamlit/gemini-streamlit</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/ui/streamlit/hackathon-judge-streamlit</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/ui/streamlit/ollama-streamlit</loc>
+  </url>
+
+  <url>
+    <loc>https://docs.praison.ai/docs/ui/ui</loc>
+  </url>
+</urlset>
